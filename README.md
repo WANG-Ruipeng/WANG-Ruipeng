@@ -6,7 +6,7 @@
 
 🔬 Research Experience: I've served as a Research Assistant at the Shenzhen Institute of Research and Innovation, The University of Hong Kong, focusing on digital twin technologies and integrating building information models into Unity using AR.
 
-🎮 Industry Experience: I've interned at Tencent as a Gameplay Programmer, leading teams and developing multiplayer and AI-based games. My projects include a Steam-based TPS game and a turn-based game integrating ChatGPT for real-time AI player interaction.
+🎮 Industry Experience: I've interned as a Gameplay Programmer, leading teams and developing multiplayer and AI-based games. My projects include a Steam-based TPS game and a turn-based game integrating ChatGPT for real-time AI player interaction.
 
 🕹️ Game Projects: I've led and contributed to various game projects like 'JumpBox' and 'Physics Simulation,' showcasing my skills in gameplay logic, level design, and physics simulations. My work ranges from board games to complex simulations in Unity and OpenGL.
 
