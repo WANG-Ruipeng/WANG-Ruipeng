@@ -1,4 +1,4 @@
-###👋 Hi there! I'm Ruipeng Wang, a Computer Science student at Shenzhen University with a passion for game design and development.
+👋 Hi there! I'm Ruipeng Wang, a Computer Science student at Shenzhen University with a passion for game design and development.
 
 🎓 Education: I'm currently pursuing my degree in Computer Science and Technology at Shenzhen University, where I've achieved a GPA of 3.78/4.50, placing me in the top 15% of my class. I've also had the privilege of being an International Guest Student at the University of Pennsylvania.
 
