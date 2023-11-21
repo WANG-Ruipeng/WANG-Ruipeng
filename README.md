@@ -18,5 +18,5 @@
 
 🌟 **What I'm Up to Now**: I'm currently expanding my technical prowess in game development and exploring new technologies in game design. I'm open to collaboration, internships, and exciting opportunities in the gaming industry. Let's connect!
 
-![Ruipeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=WANG_Ruipeng&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WANG_Ruipeng)
+![Ruipeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=WANG-Ruipeng&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WANG-Ruipeng)
