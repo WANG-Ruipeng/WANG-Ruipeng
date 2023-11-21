@@ -10,7 +10,7 @@
 
 🕹️ Game Projects: I've led and contributed to various game projects like 'JumpBox' and 'Physics Simulation,' showcasing my skills in gameplay logic, level design, and physics simulations. My work ranges from board games to complex simulations in Unity and OpenGL.
 
-🏆 Competitions & Achievements: I've participated in events like the 2023 CiGA Gamejam and the NetEase University Game Open, leading teams to create innovative games and winning accolades like the CiGA Gamejam Players Choice award.
+🏆 Competitions & Achievements: I've participated in events like the 2023 CiGA Gamejam and the NetEase University Game Open, leading teams to create innovative games.
 
 🌐 Community Engagement: As the Head of NAGO Universal Club, I've managed a gaming community of 380, organizing events and writing for our WeChat Public Account.
 
