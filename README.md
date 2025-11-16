@@ -1,15 +1,20 @@
-👋 Hi there! I'm Ruipeng Wang, a Computer Science student at University of Pennsylvania with a passion for game design and development.
+👋 Hi there! I'm Ruipeng Wang, a **Game Developer** specializing in **Unreal Engine 5 (UE5)**. I currently work for Tencent at Timi Studio. I'm passionate about solving problems in computer graphics and game engine development.
 
-🎓 **Education**: I received my bachelor's degree in Computer Science from Shenzhen University and am currently pursuing a Master's degree in the Computer Graphics and Game Technology (CGGT) program at the University of Pennsylvania.
+---
 
-💻 **Skills & Expertise**: I specialize in C++, OpenGL, and have substantial experience in game engines like Unreal and Unity. My portfolio, showcasing my diverse range of projects, is available at [my personal website](wangruipeng.com).
+### 💻 Professional Work & Research
 
-🕹️ **Game Projects**: I've led and contributed to various game projects like 'JumpBox' and 'Physics Simulation,' showcasing my skills in gameplay logic, level design, and physics simulations. My work ranges from board games to complex simulations in Unity and OpenGL.
+* **At Tencent**: My primary role involves developing and optimizing systems within **Unreal Engine 5**.
+* **Personal Research**: In my spare time, I actively conduct research in **computer graphics**, exploring new algorithms and rendering techniques.
 
-🌐 **Community Engagement**: As the Head of NAGO Universal Club, I've managed a gaming community of 380, organizing events and writing for our WeChat Public Account.
+### 🎓 Education & Skills
 
-🔍 **Languages**: Fluent in both Chinese and English.
+* **Education**: I hold an M.S. in Computer Graphics and Game Technology (CGGT) from the **University of Pennsylvania** and a B.S. in Computer Science from **Shenzhen University**.
+* **Core Skills**: C++, Unreal Engine 5, Unity, OpenGL, Game Engine Development.
 
-🌟 **What I'm Up to Now**: I'm currently expanding my technical prowess in game development and exploring new technologies in game design. I'm open to collaboration, internships, and exciting opportunities in the gaming industry. Let's connect!
+### 🌐 Find Me Online
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WANG-Ruipeng)
+* **Personal Website**: [wangruipeng.com](https://wangruipeng.com)
+* **English Blog**: [CODE THE WORLD ANEW](https://blog-2024.wangruipeng.com)
+* **Chinese Blog**: [知乎主页](https://www.zhihu.com/people/mao-wu-wei-qiu-feng-suo-po)
+* Or you can reach me via email at contact@wangruipeng.com
