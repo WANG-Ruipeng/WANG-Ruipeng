@@ -17,4 +17,3 @@
 * **Personal Website**: [wangruipeng.com](https://wangruipeng.com)
 * **English Blog**: [CODE THE WORLD ANEW](https://blog-2024.wangruipeng.com)
 * **Chinese Blog**: [知乎主页](https://www.zhihu.com/people/mao-wu-wei-qiu-feng-suo-po)
-* Or you can reach me via email at contact@wangruipeng.com
